@@ -1,6 +1,7 @@
 <h1>Hi, I'm Vlad!</h1>
 🔭 I’m currently studying Quantitative Methods in Economics and Information Systems at SGH Warsaw School of Economics
 
+
 👀 I’m interested in Data Science
   
 🌱 I’m currently learning Python
