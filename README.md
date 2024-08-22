@@ -22,6 +22,9 @@
 - <b>Java</b>
   - [Java GDP Project](https://github.com/VladYanovich/Java_GDP_project)
 
+- <b>Excel</b>
+  - [Excel Exercises](https://github.com/VladYanovich/excel_exercises)
+
 - <b>Gretl</b>
   - [Gretl HICP Project](https://github.com/VladYanovich/Gretl_HICP_Project)
 
