@@ -1,6 +1,6 @@
 <h1>Hi, I'm Vlad!</h1>
-- 🔭 <b> I’m currently studying Quantitative Methods in Economics and Information Systems at SGH Warsaw School of Economics </b>
-- 👀 <b> I’m interested in Data Science </b>
+- 🔭 I’m currently studying Quantitative Methods in Economics and Information Systems at SGH Warsaw School of Economics
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: vladyanovich2004@gmail.com
 
