@@ -22,6 +22,9 @@
 - <b>Java</b>
   - [Java GDP Project](https://github.com/VladYanovich/Java_GDP_project)
 
+- <b>Gretl</b>
+  - [Gretl HICP Project](https://github.com/VladYanovich/Gretl_HICP_Project)
+
 <!---
 VladYanovich/VladYanovich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
