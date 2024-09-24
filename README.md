@@ -11,7 +11,8 @@
 <h2>🧐 What do I know</h2>
 
 - <b>Python</b>
-  - [Python Exercises](https://github.com/VladYanovich/Python_exercises)
+  - [Python Data Science Course Exercises](https://github.com/VladYanovich/Python_exercises)
+  - [Python CodeWars Exercises](https://github.com/VladYanovich/Python-CodeWars-Exercises)
 
 - <b>Power Bi</b>
   - [Power Bi Projects](https://github.com/VladYanovich/PowerBI_exercises)
