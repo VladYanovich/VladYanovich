@@ -13,6 +13,7 @@
 - <b>Python</b>
   - [Python Data Science Course Exercises](https://github.com/VladYanovich/Python_exercises)
   - [Python CodeWars Exercises](https://github.com/VladYanovich/Python-CodeWars-Exercises)
+  - [100 Days of Code - The Complete Python Pro Bootcamp](https://github.com/VladYanovich/100-Days-of-Code---The-Complete-Python-Pro-Bootcamp)
 
 - <b>Power Bi</b>
   - [Power Bi Projects](https://github.com/VladYanovich/PowerBI_exercises)
