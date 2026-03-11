@@ -10,6 +10,9 @@
 
 <h2>🧐 What do I know</h2>
 
+- <b>Microservices</b>
+  - [E-commerece platform]((https://github.com/VladYanovich/e-commerce_platform))
+
 - <b>Python</b>
   - [Python Data Science Course Exercises](https://github.com/VladYanovich/Python_exercises)
   - [Python CodeWars Exercises](https://github.com/VladYanovich/Python-CodeWars-Exercises)
