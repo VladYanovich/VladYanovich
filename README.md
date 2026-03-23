@@ -1,7 +1,5 @@
 <h1>Hi, I'm Vlad!</h1>
 
-🎓 I’m currently studying Big Data at 🏛️SGH Warsaw School of Economics
-
 🕵🏼‍♂️ I’m interested in Backend
   
 👨🏻‍💻 I’m currently learning 🐍Python
